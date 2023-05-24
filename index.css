@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  background-color: #c5c5c5;
+}
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #1b244a;
+  border: 3px solid #fff;
+  width: 50%;
+  margin: 0 auto;
+  color: #fff;
+}
+
+button {
+  height: 45px;
+  width: 45px;
+  border: 2px solid #9aabd8;
+  color: #9aabd8;
+  margin-top: 13px;
+  background: transparent;
+  border-radius: 5px;
+}
+
+.buttons {
+  margin-bottom: 70px;
+}
+.home,
+.away {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.score {
+  width: 155px;
+  height: 106px;
+  background-color: #080001;
+  color: #f94f6d;
+  font-family: TimesSquare-m105;
+  font-size: 90px;
+  margin-top: 10px;
+  margin-bottom: 13px;
+  text-align: center;
+  padding-top: 14px;
+}
