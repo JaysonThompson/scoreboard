@@ -41,13 +41,12 @@ button {
 
 .score {
   width: 155px;
-  height: 106px;
+  height: 120px;
   background-color: #080001;
   color: #f94f6d;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Keania One', cursive;
   font-size: 90px;
   margin-top: 10px;
   margin-bottom: 13px;
   text-align: center;
-  padding-top: 14px;
 }
